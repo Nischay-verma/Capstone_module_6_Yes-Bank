@@ -19,7 +19,7 @@ Methods Used
 
 2. Feature Engineering Feature engineering is a critical step where we create meaningful features that can influence the closing price prediction. It includes selecting relevant columns, transforming data, and creating new features when necessary.
 
-3. Regression Models Several regression models will be implemented and evaluated, including Linear Regression, Linear Regression using Lasso Regularization, Linear Regression with Ridge Regularization, Linear Regression with Elastic Net Regularization. We will assess their performance and select the most accurate model.
+3. Regression Models Several regression models will be implemented and evaluated, including Linear Regression, Linear Regression using Lasso Regularization, Linear Regression with Ridge Regularization. We will assess their performance and select the most accurate model.
 
 4. Evaluation Model evaluation will be based on various regression metrics to determine the model's accuracy in predicting Yes Bank's closing prices. Common metrics include Mean Absolute Error (MAE), Root Mean Square Error (RMSE), R-squared (R2) and Adjusted R-squared (R2).
 
